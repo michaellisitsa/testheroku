@@ -1,2 +1,1 @@
-handcalcs==1.1.3
 streamlit
